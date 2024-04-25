@@ -7,13 +7,13 @@ import { getStorage } from "firebase/storage";
 import { getReactNativePersistence } from '@firebase/auth/dist/rn/index.js';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDBrrDd_ufuHQqSOOAPHvF-jiPYCAlvLyc",
-  authDomain: "mad-quiz-b3cc0.firebaseapp.com",
-  projectId: "mad-quiz-b3cc0",
-  storageBucket: "mad-quiz-b3cc0.appspot.com",
-  messagingSenderId: "547311458329",
-  appId: "1:547311458329:web:abbed0bf67120b4d943288",
-  measurementId: "G-MN00WGBGXJ"
+  apiKey: "api",
+  authDomain: "domain",
+  projectId: "project",
+  storageBucket: "storage",
+  messagingSenderId: "message",
+  appId: "app",
+  measurementId: "id"
 };
 
 // Initialize Firebase
